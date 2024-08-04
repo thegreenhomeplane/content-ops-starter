@@ -9,9 +9,20 @@ sections:
       type: TitleBlock
     subtitle: Free Boiler Replacement
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      The Free Boiler Replacement Scheme, part of the UK government's Energy
+      Company Obligation (ECO) initiative, is designed to help low-income
+      households improve their heating efficiency by replacing old, inefficient
+      boilers with new, energy-efficient models. This guide will provide you
+      with all the necessary information about the scheme, including its
+      benefits, eligibility criteria, application process, and why you should
+      consider applying.
+
+
+
+
+      [**Free Boiler Replacement Scheme
+
+      **](https://thegreenhomeplans.com/)
     actions:
       - label: Get started
         altText: ''
