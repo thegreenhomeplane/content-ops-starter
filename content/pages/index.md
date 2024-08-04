@@ -24,7 +24,7 @@ sections:
 
       **](https://thegreenhomeplans.com/)
     actions:
-      - label: Get started
+      - label: Free Boiler
         altText: ''
         url: /
         showIcon: false
